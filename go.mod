@@ -1,4 +1,4 @@
-module confhandler
+module github.com/alasgarovnamig/confhandler
 
 go 1.22.5
 
